@@ -28,7 +28,7 @@ const SignUp = () => {
             </div>
             <div className='border h-[100px] w-[350px] text-center p-4 mt-3'>
                 <p>Have an account?</p>
-                <Link to='/' className='text-blue-600'>Log in</Link>
+                <Link to='/Login1' className='text-blue-600'>Log in</Link>
             </div>
 
 
